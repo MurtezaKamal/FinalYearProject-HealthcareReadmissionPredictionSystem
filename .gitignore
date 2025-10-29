@@ -1,0 +1,28 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Sensitive files
+.env
+*.pkl
+*.db
+*.csv
+*.xlsx
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
+Thumbs.db
